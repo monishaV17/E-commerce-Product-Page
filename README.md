@@ -9,6 +9,7 @@ A modern and responsive e-commerce product page built using HTML,CSS,JavaScript.
 The project is deployed using **Vercel**
 
 [https://v0-e-commerce-product-page-orcin.vercel.app/] (click here to view the live site)
+
 #Features
 ...Responsive design for all devices...
 ...Add to cart functionality...
